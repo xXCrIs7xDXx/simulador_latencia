@@ -202,14 +202,6 @@ La arquitectura implementa un patrón MVC ligero sin framework:
 
 ## Notas de Seguridad
 
-### Contraseñas de Prueba
-⚠️ **IMPORTANTE**: Las contraseñas de prueba (`password123`) deben ser reemplazadas en producción:
-
-```php
-// Generar nueva contraseña hasheada (en línea de comandos PHP):
-php -r "echo password_hash('nueva_contraseña', PASSWORD_BCRYPT);"
-```
-
 ### Variables de Entorno
 Para producción, usar variables de entorno en lugar de constantes hardcodeadas:
 
