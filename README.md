@@ -268,9 +268,9 @@ Este simulador conecta directamente con la **Teoría de Silos de Beer** (Modelo 
 
 ## Licencia y Autoría
 
-- **Autor**: Arquitecto de Software Senior, especialista en Sistemas PHP/MySQL y Organización & Métodos
+- **Autor**: Arquitecto de Software Junior - Cristian J. Velasco Conde
 - **Fecha**: Mayo 2026
-- **Propósito**: Prueba de Concepto académica para exposición universitaria
+- **Propósito**: Prueba de Concepto y comparacion
 - **Licencia**: Código abierto para fines educativos
 
 ---
